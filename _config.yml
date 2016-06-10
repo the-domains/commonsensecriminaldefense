@@ -1,7 +1,7 @@
-name: commonsensecriminaldefense
+name: Common Sense Criminal Defense
 favicon: null
-layout_spectrum: 0.46489900816231966
-typography_spectrum: 0.06092793238349259
+layout_spectrum: 0
+typography_spectrum: 0.99902
 title: Common Sense Criminal Defense
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.39084359095431864
-  lightness: 0.8371398455929011
-  saturation: 0.5196921972092241
-  rhythmicContrast: 0.12990432512015104
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []

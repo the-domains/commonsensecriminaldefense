@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://napierlaw.blogspot.com/'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-10T14:34:22.029Z'
-dateModified: '2016-06-10T14:34:05.349Z'
+datePublished: '2016-06-14T21:06:29.939Z'
+dateModified: '2016-06-10T14:34:24.575Z'
 author: []
 related: []
 app_links: []

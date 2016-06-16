@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://napierlaw.blogspot.com/'
 inLanguage: null
 keywords: []
 description: 'YOUR RIGHTS:'
-datePublished: '2016-06-16T15:32:10.243Z'
-dateModified: '2016-06-16T15:31:56.049Z'
+datePublished: '2016-06-16T15:42:19.397Z'
+dateModified: '2016-06-16T15:36:54.481Z'
 author:
   - name: ''
     url: ''
@@ -19,7 +19,7 @@ publisher:
   domain: napierlaw.blogspot.com
   url: null
   favicon: null
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: Article
 

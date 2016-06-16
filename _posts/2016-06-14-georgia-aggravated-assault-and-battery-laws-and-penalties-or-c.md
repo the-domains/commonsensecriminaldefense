@@ -21,8 +21,8 @@ description: >-
   assault, simple battery, battery, and aggravated battery. This article
   concerns aggravated assault laws. For information on simple assaults and
   batteries, see Georgia Assault and Battery Laws.
-datePublished: '2016-06-14T20:45:11.112Z'
-dateModified: '2016-06-14T20:45:06.408Z'
+datePublished: '2016-06-16T14:29:01.683Z'
+dateModified: '2016-06-16T14:29:01.231Z'
 author:
   - name: Drew Wheaton
     url: 'http://www.criminaldefenselawyer.com/law-authors/drew-wheaton.html'
@@ -30,6 +30,8 @@ author:
 related: []
 app_links: []
 title: 'Georgia Aggravated Assault & Battery: Laws and Penalties | Criminal Law'
+sourcePath: >-
+  _posts/2016-06-14-georgia-aggravated-assault-and-battery-laws-and-penalties-or-c.md
 authors: []
 publisher:
   name: CriminalDefenseLawyer.com
@@ -37,8 +39,6 @@ publisher:
   url: 'http://www.criminaldefenselawyer.com'
   favicon: 'http://www.criminaldefenselawyer.com/sites/all/themes/hubv6/favicon.ico'
 starred: false
-sourcePath: >-
-  _posts/2016-06-14-georgia-aggravated-assault-and-battery-laws-and-penalties-or-c.md
 _context: 'http://schema.org'
 _type: MediaObject
 

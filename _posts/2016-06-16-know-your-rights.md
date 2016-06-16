@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://napierlaw.blogspot.com/'
 inLanguage: null
 keywords: []
 description: 'YOUR RIGHTS:'
-datePublished: '2016-06-16T15:06:10.452Z'
-dateModified: '2016-06-16T15:05:52.573Z'
+datePublished: '2016-06-16T15:07:11.035Z'
+dateModified: '2016-06-16T15:06:30.035Z'
 author:
   - name: ''
     url: ''
@@ -30,11 +30,11 @@ _type: Article
 
 YOUR RIGHTS:
 
-* You have the right to remain silent. If you wish to exercise that right, say so out loud.
-* You have the right to refuse to consent to a search of yourself, your car or your home.
-* If you are not under arrest, you have the right to calmly leave.
-* You have the right to a lawyer if you are arrested. Ask for one immediately.
-* Regardless of your immigration or citizenship status, you have constitutional rights.
+* _You have the right to remain silent. If you wish to exercise that right, say so out loud._
+* _You have the right to refuse to consent to a search of yourself, your car or your home._
+* _If you are not under arrest, you have the right to calmly leave._
+* _You have the right to a lawyer if you are arrested. Ask for one immediately._
+* _Regardless of your immigration or citizenship status, you have constitutional rights._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfcaa6ce-1bf0-4418-a31f-d19c7447ecb7.jpg)
 
 YOUR RESPONSIBILITIES:

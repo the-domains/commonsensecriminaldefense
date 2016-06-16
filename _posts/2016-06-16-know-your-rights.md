@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://napierlaw.blogspot.com/'
 inLanguage: null
 keywords: []
 description: 'YOUR RIGHTS:'
-datePublished: '2016-06-16T15:23:04.726Z'
-dateModified: '2016-06-16T15:22:53.900Z'
+datePublished: '2016-06-16T15:32:10.243Z'
+dateModified: '2016-06-16T15:31:56.049Z'
 author:
   - name: ''
     url: ''
@@ -44,6 +44,5 @@ YOUR RESPONSIBILITIES:
   * _Do prepare yourself and your family in case you are arrested._
   * _Do remember the details of the encounter._
   * _Do file a written complaint or call your local ACLU if you feel your rights have been violated._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfcaa6ce-1bf0-4418-a31f-d19c7447ecb7.jpg)
 
 [0]: https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi

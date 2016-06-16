@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://napierlaw.blogspot.com/'
 inLanguage: null
 keywords: []
 description: 'YOUR RIGHTS:'
-datePublished: '2016-06-16T15:20:25.134Z'
-dateModified: '2016-06-16T15:20:07.255Z'
+datePublished: '2016-06-16T15:23:04.726Z'
+dateModified: '2016-06-16T15:22:53.900Z'
 author:
   - name: ''
     url: ''
@@ -30,20 +30,20 @@ _type: Article
 
 YOUR RIGHTS:
 
-* _You have the right to remain silent. If you wish to exercise that right, say so out loud._
-* _You have the right to refuse to consent to a search of yourself, your car or your home._
-* _If you are not under arrest, you have the right to calmly leave._
-* _You have the right to a lawyer if you are arrested. Ask for one immediately._
-* _Regardless of your immigration or citizenship status, you have constitutional rights._
+*   * _You have the right to remain silent. If you wish to exercise that right, say so out loud._
+  * _You have the right to refuse to consent to a search of yourself, your car or your home._
+  * _If you are not under arrest, you have the right to calmly leave._
+  * _You have the right to a lawyer if you are arrested. Ask for one immediately._
+  * _Regardless of your immigration or citizenship status, you have constitutional rights._
 
 YOUR RESPONSIBILITIES:
 
-* _Do stay calm and be polite._
-* _Do not interfere with or obstruct the police._
-* _Do not lie or give false documents._
-* _Do prepare yourself and your family in case you are arrested._
-* _Do remember the details of the encounter._
-* _Do file a written complaint or call your local ACLU if you feel your rights have been violated._
+*   * _Do stay calm and be polite._
+  * _Do not interfere with or obstruct the police._
+  * _Do not lie or give false documents._
+  * _Do prepare yourself and your family in case you are arrested._
+  * _Do remember the details of the encounter._
+  * _Do file a written complaint or call your local ACLU if you feel your rights have been violated._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfcaa6ce-1bf0-4418-a31f-d19c7447ecb7.jpg)
 
 [0]: https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi

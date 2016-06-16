@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://napierlaw.blogspot.com/'
 inLanguage: null
 keywords: []
 description: 'YOUR RIGHTS:'
-datePublished: '2016-06-16T14:29:45.364Z'
-dateModified: '2016-06-16T14:29:34.988Z'
+datePublished: '2016-06-16T15:06:10.452Z'
+dateModified: '2016-06-16T15:05:52.573Z'
 author:
   - name: ''
     url: ''
@@ -39,11 +39,11 @@ YOUR RIGHTS:
 
 YOUR RESPONSIBILITIES:
 
-* Do stay calm and be polite.
-* Do not interfere with or obstruct the police.
-* Do not lie or give false documents.
-* Do prepare yourself and your family in case you are arrested.
-* Do remember the details of the encounter.
-* Do file a written complaint or call your local ACLU if you feel your rights have been violated.
+* _Do stay calm and be polite._
+* _Do not interfere with or obstruct the police._
+* _Do not lie or give false documents._
+* _Do prepare yourself and your family in case you are arrested._
+* _Do remember the details of the encounter._
+* _Do file a written complaint or call your local ACLU if you feel your rights have been violated._
 
 [0]: https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi

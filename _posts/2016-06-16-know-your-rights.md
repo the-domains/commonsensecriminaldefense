@@ -5,15 +5,14 @@ inNav: false
 isBasedOnUrl: 'http://napierlaw.blogspot.com/'
 inLanguage: null
 keywords: []
-description: >-
-  Common Sense Criminal Defense Attorney Ed Napier will defend you and insure
-  your rights are protected.
-datePublished: '2016-06-16T14:11:27.552Z'
-dateModified: '2016-06-16T14:11:16.935Z'
+description: 'YOUR RIGHTS:'
+datePublished: '2016-06-16T14:16:43.909Z'
+dateModified: '2016-06-16T14:16:38.655Z'
 author:
-  - name: Ed Napier
-    url: 'http://www.napierlawllc.com'
+  - name: ''
+    url: ''
 title: KNOW YOUR RIGHTS
+sourcePath: _posts/2016-06-16-know-your-rights.md
 authors: []
 publisher:
   name: napierlaw.blogspot.com
@@ -21,13 +20,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-06-16-know-your-rights.md
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![YOU HAVE RIGHTS](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cfb3d71-4e1a-4534-be81-a55312d8a204.jpg)
+
 # [KNOW YOUR RIGHTS][0]
-![Criminal Defense Attorney Ed Napier - 678-383-1690](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a5a2e74be1970b789b99f0c50c85c9b9/noop.gif?input=https%3A%2F%2F2.bp.blogspot.com%2F-mnfFi3Zjllg%2FVuRhPbzN62I%2FAAAAAAAAKpQ%2Fxm6A-b9YDgA13vx_nKDQzhW-BZ51Xi1xw%2Fs640%2F10q57e.gif)
 
 YOUR RIGHTS:
 
@@ -36,6 +35,7 @@ YOUR RIGHTS:
 * If you are not under arrest, you have the right to calmly leave.
 * You have the right to a lawyer if you are arrested. Ask for one immediately.
 * Regardless of your immigration or citizenship status, you have constitutional rights.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfcaa6ce-1bf0-4418-a31f-d19c7447ecb7.jpg)
 
 YOUR RESPONSIBILITIES:
 

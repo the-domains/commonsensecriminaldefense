@@ -10,20 +10,20 @@ description: >-
   When it comes time to make the right moves, you want a criminal defense lawyer
   that understands how the other side thinks, how they react, and what they've
   done in the past.
-datePublished: '2016-06-12T12:15:34.132Z'
-dateModified: '2016-06-03T20:55:53.122Z'
+datePublished: '2016-06-16T14:29:10.387Z'
+dateModified: '2016-06-16T14:29:10.017Z'
 author:
   - name: Criminal Defense Lawyer Ed Napier
     url: ''
 title: Criminal Defense Lawyer
+sourcePath: _posts/2016-01-20-criminal-defense-lawyer-strategy.md
 authors: []
 publisher:
   name: google.com
   domain: www.google.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-criminal-defense-lawyer-strategy.md
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
@@ -32,4 +32,4 @@ _type: Article
 
 When it comes time to make the right moves, you want a criminal defense lawyer that understands how the other side thinks, how they react, and what they've done in the past.
 
-Local Criminal Defense Lawyer Ed Napier has handled hundreds of criminal case in Douglasville and Douglas County.  Don't let your fate rest with someone less experienced.
+Local Criminal Defense Lawyer Ed Napier has handled hundreds of criminal case in Douglasville and Douglas County. Don't let your fate rest with someone less experienced.
